@@ -1,7 +1,7 @@
 # SuspendProcessGUI.ahk
 Suspend Process With GUI
 
-![image](https://user-images.githubusercontent.com/26791163/158078865-ccabd871-f2d5-4ff2-9ef8-36f639ae9daa.png)
+![image](https://user-images.githubusercontent.com/26791163/158098088-c389c621-ba0a-48c3-a000-acc563c5c4bf.png)
 
 # Reference
 - https://github.com/aaaboypop/EZ-log.AHK
